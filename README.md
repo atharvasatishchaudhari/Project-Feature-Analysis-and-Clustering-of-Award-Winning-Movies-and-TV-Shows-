@@ -43,4 +43,14 @@ This project analyzes the key factors that contribute to the success of movies a
   - Certain genres, particularly Drama, exhibit a higher likelihood of award success.  
   - A strong correlation exists between high critic scores and winning outcomes.  
   - Interactive visualizations enabled granular insights into trends across award categories and over time.
+ 
+  ![image](https://github.com/user-attachments/assets/0257ef87-9fa9-4ac9-864d-9a5df79bbc6c)
+  ![image](https://github.com/user-attachments/assets/9c8f6098-ea8e-4c16-98ce-8c48c970e838)
+  ![image](https://github.com/user-attachments/assets/943c11f4-4c2f-4d02-b2cd-760ef4f02e7a)
+  ![image](https://github.com/user-attachments/assets/15b8c08a-07ce-43cb-a23b-69e9d7687d86)
+  ![image](https://github.com/user-attachments/assets/4e462562-ae47-4a5f-a1b1-11290a7fdf65)
+
+
+
+
 
